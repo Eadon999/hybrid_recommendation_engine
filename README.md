@@ -1,2 +1,2 @@
 # hybrid_recommendation_engine
-Mix of MF and CF(Item similarity) based approach
+mixed approach of Recommender System - MF(Matrix Factorization) with item similarity based Collaborative Filtering
